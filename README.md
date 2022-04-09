@@ -19,7 +19,7 @@ The output can be decoded by typing the outputed code in the "Your Message" fiel
 Here, the user can type any message they like in the "Your Message" field, then assigning the "Alphabet Key" any 26-character, alphanumeric code, including symbols (but without any reapeating characters), and finally making sure "Encode" is checked.
 <br />
 The output can be decoded by typing the outputed message in the "Your Message" field, leaving the "Alphabet Key" field as-is, then checking "Decode."
-### Built with:
+## Built with:
 - JavaScript using validation/conditional functions
 - HTML
 - CSS with Bootstrap
